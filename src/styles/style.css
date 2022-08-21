@@ -1,0 +1,49 @@
+.p-slot{ 
+    margin-top:100px !important;
+    
+}
+.p-row{
+    padding: 5px;
+    background: gray;
+    margin: 5px 0px;
+}
+
+.clear{
+    clear:both;
+}
+.text-center{
+    text-align: center;
+}
+.left{
+    float:left;
+}
+.entry-point{
+    height: 150px;
+    padding:5px;
+    float: left;
+}
+.entry-label{
+    position: absolute;
+    color: white;
+    top: 33%;
+    left: 38%;
+}
+.relative{
+    position: relative;
+}
+.e-point{
+    margin: 5px;
+    border-bottom: 1px solid #ebebeb;
+}
+.err{
+    color:red;
+    font-weight: bold;
+}
+.fa{
+    font-size: 50px;
+    color: #242424
+}
+.fa:hover{
+    color: limegreen;
+    cursor:pointer;
+}
